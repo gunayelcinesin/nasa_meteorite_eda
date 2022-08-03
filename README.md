@@ -6,6 +6,6 @@
 
 In this notebook, an EDA is performed on NASA Meteorite Landings data set derived from NASA's Open Data Portal. This comprehensive data set from The Meteoritical Society contains information on all of the known meteorite landings.
 
-The crux of this EDA is to find the realtion between mass, year, recclass and GeoLocation. The language is Python.
+The crux of this EDA is to find the relation between mass, year, recclass and GeoLocation. The language is Python.
 
 You can find the data set from https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
